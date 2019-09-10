@@ -1,0 +1,26 @@
+---
+title: "Untitled"
+output: ioslides_presentation
+---
+
+
+```{r load, warning=FALSE, echo=FALSE}
+library(gapminder)
+library(tibble)
+library(DT)
+```
+
+<!--How R Markdown knows to divide content into slides is through the header. A second level header will give you a new slide -->
+
+## Print out gapminder data:
+
+```{r}
+print(gapminder)
+```
+
+## Convert mtcars to a tibble, and wrap in datatable: 
+
+```{r}
+datatable(as_tibble(mtcars))
+```
+
