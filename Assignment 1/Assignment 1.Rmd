@@ -2,11 +2,10 @@
 title: "Gapminder Exploration"
 author: "Isabel Chew"
 date: "15 September 2019"
+always_allow_html: yes
 output: 
-  html_document:
-    theme: yeti
-    highlight: tango
-    toc: true
+  md_document:
+    variant: markdown_github
 ---
 
 # Set-up

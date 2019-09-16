@@ -1,13 +1,13 @@
 ---
 title: "Gapminder Exploration Slides"
-author: Isabel Chew
+author: "Isabel Chew"
 date: "September 15, 2019"
-output: 
-  ioslides_presentation
+output:
+  ioslides_presentation: default
 ---
 
 
-```{r load, warning=FALSE, echo=FALSE}
+```{r, load, warning=FALSE, echo=FALSE}
 library(gapminder)
 library(tibble)
 library(DT)
