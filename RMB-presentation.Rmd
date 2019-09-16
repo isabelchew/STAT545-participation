@@ -1,6 +1,9 @@
 ---
-title: "Untitled"
-output: ioslides_presentation
+title: "Gapminder Exploration Slides"
+author: Isabel Chew
+date: "September 15, 2019"
+output: 
+  ioslides_presentation
 ---
 
 
@@ -8,19 +11,34 @@ output: ioslides_presentation
 library(gapminder)
 library(tibble)
 library(DT)
+library(dplyr)
 ```
 
 <!--How R Markdown knows to divide content into slides is through the header. A second level header will give you a new slide -->
 
-## Print out gapminder data:
+## Overview of the data {.build}
 
-```{r}
-print(gapminder)
+```{r, as_tibble(gapminder), fig.align='center', echo=FALSE}
+datatable(as_tibble(gapminder), filter = 'top', options=list(
+  pageLength=5))
 ```
 
-## Convert mtcars to a tibble, and wrap in datatable: 
+## Mean Life Expectancy per country
 
-```{r}
-datatable(as_tibble(mtcars))
+The following table provides the mean life expectancy for each country:
+
+```{r, gapminder, fig.align='center', echo=FALSE}
+datatable((gapminder%>%group_by(country)%>%summarise_at("lifeExp", mean, na.rm=TRUE)),options=list(
+  pageLength=5))
 ```
+
+---
+Let's look at the relationship between life expectancy and GDP per capita
+
+```{r, fig.align='center', fig.cap="Scatterplot of life expectancy and GDP per capita",  echo=FALSE}
+{plot(gapminder$lifeExp, gapminder$gdpPercap)}
+```
+
+
+
 
