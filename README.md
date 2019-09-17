@@ -12,3 +12,6 @@ My name is Isabel and I am a PhD student at the department of Political Science.
 * Electoral Politics
 * Southeast Asian Politics
 
+### Navigation
+
+To browse my completed files for the first assignment, please click [here](https://github.com/isabelchew/STAT545-participation/tree/master/Assignment%201).
