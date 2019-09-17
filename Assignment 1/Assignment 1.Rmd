@@ -21,6 +21,13 @@ library(dplyr)
 
 # Overview of the data 
 
+The following shows the variables present in our gapminder dataset: 
+
+```{r}
+colnames(gapminder)
+```
+
+
 Convert **Gapminder** to a tibble, and wrap it in datatable: 
 
 ```{r}
@@ -35,4 +42,5 @@ The following line of code provides the *mean* life expectancy, population and G
 ```{r}
 gapminder%>%group_by(country)%>%summarise_at(c("lifeExp", "pop", "gdpPercap"), mean, na.rm=TRUE)
 ```
+
 
