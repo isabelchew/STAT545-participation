@@ -70,8 +70,13 @@ knitr::kable()
 gapminder%>%
   group_by(country)%>%
   arrange(year)%>%
-  mutate(inc_life_exp = difference(lifeExp) )
-  
+  mutate(inc_life_exp = difference(lifeExp))%>%
+  drop_na()%>%
+  ungroup()%>%
+  group_by(continent)%>%
+  filter(inc_life_exp==min(inc_life_exp)%>%
+  arrange(inc_life_exp)%>%
+  knitr::kable()
 
 ```
 
