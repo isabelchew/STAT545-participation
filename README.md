@@ -14,4 +14,43 @@ My name is Isabel and I am a PhD student at the department of Political Science.
 
 ### Navigation
 
-To browse my completed files for the first assignment, please click [here](https://github.com/isabelchew/STAT545-participation/tree/master/Assignment%201).
+**Class Meeting 1 Introduction to STAT 545 and GitHub**
+[x] Register a GitHub account
+[x] Share your username by filling out this survey
+[x] Create and populate navigating_github.md with several links
+
+**Class Meeting 2 Introduction to R**
+[ ] Provide the R script cm002_R_exploration.R file. 
+
+**Class Meeting 3 Authoring**
+[ ] Populate navigating_github.md document with some markdown features
+[ ] Convert the .md file into both pdf and html and add them to your repo
+[ ] Upload rmd_exploration.Rmd and its output formats (md, pdf and html)
+[ ] Upload rmd_exploration-slides.Rmd both as Rmd and html(or pdf) formats
+
+**Class Meeting 4 The version control workflow**
+nothing is required for submisison
+
+**Class Meeting 5 Intro to plotting with ggplot2, Part I**
+[ ] Complete cm005-ggplot_intro.Rmd worksheet. Instructor version can be found here
+[ ] Submit .Rmd file along with knitted version of your choice (pdf, md or html format)
+
+**Class Meeting 6 Intro to data wrangling, Part I**
+[ ] Complete cm006-dplyr_exercise.Rmd worksheet. Instructor version can be found here
+[ ] Submit .Rmd file along with knitted version of your choice (pdf, md or html format)
+
+**Class Meeting 7 Intro to data wrangling, Part II**
+[ ] Complete cm007-exercise.Rmd worksheet. Instructor version can be found here
+[ ] Submit .Rmd file along with knitted version of your choice (pdf, md or html format)
+
+**Class Meeting 8 Intro to plotting with ggplot2, Part II**
+[ ] Complete cm008-exercise.Rmd worksheet. Instructor version can be found here
+[ ] Submit .Rmd file along with knitted version of your choice (pdf, md or html format)
+
+**Class Meeting 9 Tidy Data and Pivoting**
+[ ] Complete cm009-exercise.Rmd worksheet. Instructor version can be found here
+[ ] Submit .Rmd file along with knitted version of your choice (pdf, md or html format)
+
+**Class Meeting 10 Tibble Joins**
+[ ] Complete cm010-exercise.Rmd worksheet. Instructor version can be found here
+[ ] Submit .Rmd file along with knitted version of your choice (pdf, md or html format)
