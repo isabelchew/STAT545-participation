@@ -1,0 +1,29 @@
+---
+title: "RMD EXPLORATIONS"
+author: "Isabel"
+date: "10/13/2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r load, warning=FALSE, echo=FALSE}
+library(gapminder)
+library(tibble)
+library(DT)
+```
+
+## Print out gapminder data:
+
+```{r}
+datatable(gapminder)
+```
+
+
+## Convert mtcars to a tibble, and wrap in datatable: 
+
+```{r}
+datatable(as_tibble(mtcars))
+```
