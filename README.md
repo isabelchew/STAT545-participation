@@ -14,45 +14,45 @@ My name is Isabel and I am a PhD student at the department of Political Science.
 
 ### Navigation
 
-**Class Meeting 1 Introduction to STAT 545 and GitHub**
+[**Class Meeting 1 Introduction to STAT 545 and GitHub**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%201)
 - [x] Register a GitHub account
 - [x] Share your username by filling out this survey
 - [x] Create and populate navigating_github.md with several links
 
-**Class Meeting 2 Introduction to R**
+[**Class Meeting 2 Introduction to R**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%202)
 - [x] Provide the R script cm002_R_exploration.R file. 
 
-**Class Meeting 3 Authoring**
+[**Class Meeting 3 Authoring**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%203)
 - [x] Populate navigating_github.md document with some markdown features
-- [x] Convert the .md file into both pdf and html and add them to your repo
-- [x] Upload rmd_exploration.Rmd and its output formats (md, pdf and html)
-- [x] Upload rmd_exploration-slides.Rmd both as Rmd and html(or pdf) formats
+- [x] Convert the .md file into both pdf and [html](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%203/RMD-exploration.html) and add them to your repo
+- [x] Upload rmd_exploration.Rmd and its output formats (md, pdf and [html](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%203/RMD-exploration.html))
+- [x] Upload rmd_exploration-slides.Rmd both as Rmd and [html](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%203/rmd_explorations_slides.html) formats
 
 **Class Meeting 4 The version control workflow**
 
 Nothing is required for submisison
 
-**Class Meeting 5 Intro to plotting with ggplot2, Part I**
+[**Class Meeting 5 Intro to plotting with ggplot2, Part I**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%205)
 - [x] Complete cm005-ggplot_intro.Rmd worksheet. 
 - [x] Submit .Rmd file along with knitted version of your choice (pdf format)
 
-**Class Meeting 6 Intro to data wrangling, Part I**
+[**Class Meeting 6 Intro to data wrangling, Part I**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%206)
 - [x] Complete cm006-dplyr_exercise.Rmd worksheet. 
 - [x] Submit .Rmd file along with knitted version of your choice (pdf format)
 
-**Class Meeting 7 Intro to data wrangling, Part II**
+[**Class Meeting 7 Intro to data wrangling, Part II**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%207)
 - [x] Complete cm007-exercise.Rmd worksheet. 
 - [x] Submit .Rmd file along with knitted version of your choice ([html format](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%207/cm007-exercise.html))
 
-**Class Meeting 8 Intro to plotting with ggplot2, Part II**
+[**Class Meeting 8 Intro to plotting with ggplot2, Part II**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%208)
 - [x] Complete cm008-exercise.Rmd worksheet. 
 - [x] Submit .Rmd file along with knitted version of your choice (pdf format)
 
-**Class Meeting 9 Tidy Data and Pivoting**
+[**Class Meeting 9 Tidy Data and Pivoting**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%208)
 - [x] Complete cm009-exercise.Rmd worksheet.
 - [x] Submit .Rmd file along with knitted version of your choice ([html format](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%209/cm009%20exercise.nb.html))
 
-**Class Meeting 10 Tibble Joins**
+[**Class Meeting 10 Tibble Joins**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2010)
 - [x] Complete cm010-exercise.Rmd worksheet. 
 - [x] Submit .Rmd file along with knitted version of your choice (pdf format)
 
