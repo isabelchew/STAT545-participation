@@ -1,8 +1,9 @@
 ---
-title: "cm005 Worksheet: Exploring Geometric Objects"
-output: 
+title: 'cm005 Worksheet: Exploring Geometric Objects'
+output:
+  pdf_document: default
   html_document:
-    keep_md: true
+    keep_md: yes
     theme: paper
 ---
 

@@ -1,9 +1,8 @@
 ---
-title: "cm007 Exercises: Practice with `dplyr`"
-output: 
-  html_document:
-    keep_md: true
-    theme: paper
+title: 'cm007 Exercises: Practice with `dplyr`'
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 <!---The following chunk allows errors when knitting--->
@@ -75,8 +74,7 @@ gapminder%>%
   ungroup()%>%
   group_by(continent)%>%
   filter(inc_life_exp==min(inc_life_exp)%>%
-  arrange(inc_life_exp)%>%
-  knitr::kable()
+  arrange(inc_life_exp)
 
 ```
 

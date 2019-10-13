@@ -1,8 +1,9 @@
 ---
-title: "cm008 Exercises: Fix the Plots"
-output: 
+title: 'cm008 Exercises: Fix the Plots'
+output:
+  pdf_document: default
   html_document:
-    keep_md: true
+    keep_md: yes
     theme: paper
 ---
 
