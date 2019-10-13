@@ -12,7 +12,7 @@ My name is Isabel and I am a PhD student at the department of Political Science.
 * Electoral Politics
 * Southeast Asian Politics
 
-### Navigation
+## Navigation
 
 [**Class Meeting 1 Introduction to STAT 545 and GitHub**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%201)
 - [x] Register a GitHub account
