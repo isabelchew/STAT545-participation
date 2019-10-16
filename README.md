@@ -56,9 +56,9 @@ Nothing is required for submisison
 - [x] Complete cm010-exercise.Rmd worksheet. 
 - [x] Submit .Rmd file along with knitted version of your choice (pdf format)
 
-[**Class Meeting 11 File input/output (I/O)**]()
+[**Class Meeting 11 File input/output (I/O)**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2011)
 - [x] Complete the steps described in lesson 11. 
-- [] Submit .R script with your work
+- [x] Submit .R script with your work
 
 [**Class Meeting 12 Working with factors in R**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2012)
 - [x] Complete cm012-exercise.Rmd worksheet. Instructor version can be found in quide lesson 12
