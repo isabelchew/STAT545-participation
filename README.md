@@ -67,3 +67,11 @@ Nothing is required for submisison
 [**Class Meeting 13 Effective Visualizations**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2013)
 - [x] Complete cm013-exercise.Rmd worksheet. Instructor version can be found here
 - [x] Submit .Rmd file along with knitted version of your choice ([html format](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%2013/CM013-exercise-.html)) 
+
+[**Class Meeting 14 The Model-Fitting Paradigm in R**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2014)
+
+- [x] Complete cm014-exercise.Rmd worksheet. This worksheet is closely alligned with this tutorial
+- [x] Submit .Rmd file along with knitted version of your choice (pdf format)
+
+
+
