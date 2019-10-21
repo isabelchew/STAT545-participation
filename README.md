@@ -17,13 +17,13 @@ My name is Isabel and I am a PhD student at the department of Political Science.
 [**Class Meeting 1 Introduction to STAT 545 and GitHub**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%201)
 - [x] Register a GitHub account
 - [x] Share your username by filling out this survey
-- [x] Create and populate navigating_github.md with several links
+- [x] Create and populate [navigating_github.md](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%201/navigating_github.md) with several links
 
 [**Class Meeting 2 Introduction to R**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%202)
-- [x] Provide the R script cm002_R_exploration.R file. 
+- [x] Provide the R script [cm002_R_exploration.R file](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%202/CM02%20R%20exploration.R) 
 
 [**Class Meeting 3 Authoring**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%203)
-- [x] Populate navigating_github.md document with some markdown features
+- [x] Populate [navigating_github.md document](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%203/navigating_github.md) with some markdown features
 - [x] Convert the .md file into both pdf and [html](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%203/RMD-exploration.html) and add them to your repo
 - [x] Upload rmd_exploration.Rmd and its output formats (md, pdf and [html](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%203/RMD-exploration.html))
 - [x] Upload rmd_exploration-slides.Rmd both as Rmd and [html](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%203/rmd_explorations_slides.html) formats
@@ -33,45 +33,45 @@ My name is Isabel and I am a PhD student at the department of Political Science.
 Nothing is required for submisison
 
 [**Class Meeting 5 Intro to plotting with ggplot2, Part I**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%205)
-- [x] Complete cm005-ggplot_intro.Rmd worksheet. 
-- [x] Submit .Rmd file along with knitted version of your choice (pdf format)
+- [x] Complete [cm005-ggplot_intro.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%205/cm005%20exercise.Rmd). 
+- [x] Submit .Rmd file along with knitted version of your choice ([pdf format](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%205/cm005-exercise.pdf))
 
 [**Class Meeting 6 Intro to data wrangling, Part I**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%206)
-- [x] Complete cm006-dplyr_exercise.Rmd worksheet. 
-- [x] Submit .Rmd file along with knitted version of your choice (pdf format)
+- [x] Complete [cm006-dplyr_exercise.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%206/cm006.Rmd). 
+- [x] Submit .Rmd file along with knitted version of your choice ([pdf format](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%206/cm006.pdf))
 
 [**Class Meeting 7 Intro to data wrangling, Part II**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%207)
-- [x] Complete cm007-exercise.Rmd worksheet. 
+- [x] Complete [cm007-exercise.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%207/cm007%20exercise.Rmd). 
 - [x] Submit .Rmd file along with knitted version of your choice ([html format](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%207/cm007-exercise.html))
 
 [**Class Meeting 8 Intro to plotting with ggplot2, Part II**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%208)
-- [x] Complete cm008-exercise.Rmd worksheet. 
-- [x] Submit .Rmd file along with knitted version of your choice (pdf format)
+- [x] Complete [cm008-exercise.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%208/cm008%20exercise.Rmd). 
+- [x] Submit .Rmd file along with knitted version of your choice ([pdf format](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%208/cm008-exercise.pdf))
 
 [**Class Meeting 9 Tidy Data and Pivoting**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%208)
-- [x] Complete cm009-exercise.Rmd worksheet.
+- [x] Complete [cm009-exercise.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%209/cm009%20exercise.Rmd).
 - [x] Submit .Rmd file along with knitted version of your choice ([html format](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%209/cm009%20exercise.nb.html))
 
 [**Class Meeting 10 Tibble Joins**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2010)
-- [x] Complete cm010-exercise.Rmd worksheet. 
-- [x] Submit .Rmd file along with knitted version of your choice (pdf format)
+- [x] Complete [cm010-exercise.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2010/cm010%20exercise.Rmd). 
+- [x] Submit .Rmd file along with knitted version of your choice ([pdf format](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2010/cm010-exercise.pdf))
 
 [**Class Meeting 11 File input/output (I/O)**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2011)
 - [x] Complete the steps described in lesson 11. 
-- [x] Submit .R script with your work
+- [x] Submit [.R script](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2011/cm011%20exercise.R) with your work
 
 [**Class Meeting 12 Working with factors in R**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2012)
-- [x] Complete cm012-exercise.Rmd worksheet. Instructor version can be found in quide lesson 12
-- [x] Submit .Rmd file along with knitted version of your choice (pdf format)
+- [x] Complete [cm012-exercise.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2012/cm012%20exercise.Rmd). Instructor version can be found in quide lesson 12
+- [x] Submit .Rmd file along with knitted version of your choice ([pdf format](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2012/cm012-exercise.pdf))
 
 [**Class Meeting 13 Effective Visualizations**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2013)
-- [x] Complete cm013-exercise.Rmd worksheet. Instructor version can be found here
+- [x] Complete [cm013-exercise.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2013/CM013%20exercise%20.Rmd). Instructor version can be found here
 - [x] Submit .Rmd file along with knitted version of your choice ([html format](https://isabelchew.github.io/STAT545-participation/Class%20Meeting%2013/CM013-exercise-.html)) 
 
 [**Class Meeting 14 The Model-Fitting Paradigm in R**](https://github.com/isabelchew/STAT545-participation/tree/master/Class%20Meeting%2014)
 
-- [x] Complete cm014-exercise.Rmd worksheet. This worksheet is closely alligned with this tutorial
-- [x] Submit .Rmd file along with knitted version of your choice (pdf format)
+- [x] Complete [cm014-exercise.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2014/cm014-exercise.Rmd). This worksheet is closely alligned with this tutorial
+- [x] Submit .Rmd file along with knitted version of your choice ([pdf format](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2014/cm014-exercise.pdf))
 
 
 
