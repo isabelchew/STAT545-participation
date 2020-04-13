@@ -73,5 +73,5 @@ Nothing is required for submisison
 - [x] Complete [cm014-exercise.Rmd worksheet](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2014/cm014-exercise.Rmd). This worksheet is closely alligned with this tutorial
 - [x] Submit .Rmd file along with knitted version of your choice ([pdf format](https://github.com/isabelchew/STAT545-participation/blob/master/Class%20Meeting%2014/cm014-exercise.pdf))
 
-
+[![Run on Repl.it](https://repl.it/badge/github/isabelchew/STAT545-participation)](https://repl.it/github/isabelchew/STAT545-participation)
 
